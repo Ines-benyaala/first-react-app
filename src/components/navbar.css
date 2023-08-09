@@ -1,0 +1,16 @@
+.Navbar {
+    display: flex;
+    justify-content: center;
+    background-color: brown;
+}
+
+.Navbar ul {
+    display: flex;
+    width: 40vw; 
+    justify-content: space-around;
+}
+
+.Navbar ul li {
+    list-style: none;
+    color: white;
+}
